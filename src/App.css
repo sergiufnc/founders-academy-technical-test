@@ -1,0 +1,12 @@
+.App {
+  padding: 2rem;
+  max-width: 40rem;
+  margin: 0 auto;
+}
+table {
+  border-collapse: collapse;
+}
+th, td {
+  padding: 0.5rem;
+  border-bottom: 1px solid #ddd;
+}
